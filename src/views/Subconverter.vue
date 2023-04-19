@@ -258,6 +258,7 @@ export default {
         backendOptions: [
             { value: "https://back.lgdlkq.cf/sub?" },
             { value: "https://backs.deno.dev/sub?" },
+            { value: "https://sub.lgdlkq.cf/sub?" },
         ],
         remoteConfig: [
         {
